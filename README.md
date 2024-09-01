@@ -1,4 +1,4 @@
-##Uchechi  - Data Analyst Journey
+# Uchechi  - Data Analyst Journey
 
 ### About 
 Hi, I'm Uchechi! My background is in software functional testing and fraud prevention. Currently, I am on track to mastering SQL, Tableau and PowerBI data analytic toolkits. I have over the years, developed a strong foundation in compliance and fraud prevention with passion for using data to uncover meaningful insights. 
